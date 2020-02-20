@@ -161,4 +161,4 @@ As part of its message handling, the {platform} validates that all requests come
 As a developer, you don’t need to know anything about the underlying security architecture (blockchain or cryptography) to take advantage of the {IC} security features. If you need those details—for
 example, to prove compliance or address regulatory requirements—you can download documentation in the form of technical papers from the
 https://dfinity.org/faq[DFINITY website] or contact
-https://dfinity.org/support/[DFINITY Support].
+mailto:support@dfinity.org?subject=Developer_Support_Request[DFINITY Support].
